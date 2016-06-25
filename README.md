@@ -1,5 +1,5 @@
 #MeasureMe
-A quick 2-day hack companion app to an IoT length measurement sensor
+A quick 2-day hack companion app to an IoT length measurement sensor. The sensor uses a potentiometer and string to determine the length being measured and a particle photon posts the length. The app acts as a companion to read and save measurements.
 
 
 
